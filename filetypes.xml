@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="test02" type="PLAIN_TEXT" />
+      <mapping pattern="day08" type="PLAIN_TEXT" />
+      <mapping pattern="Day02" type="PLAIN_TEXT" />
+      <mapping pattern="day05" type="PLAIN_TEXT" />
+      <mapping pattern="day10" type="PLAIN_TEXT" />
+      <mapping pattern="day09" type="PLAIN_TEXT" />
+      <mapping pattern="day07" type="PLAIN_TEXT" />
+      <mapping pattern="day06" type="PLAIN_TEXT" />
+      <mapping pattern="day04" type="PLAIN_TEXT" />
+      <mapping pattern="day03" type="PLAIN_TEXT" />
+      <mapping ext="driveupload" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
