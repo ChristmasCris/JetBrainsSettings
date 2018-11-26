@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift alt semicolon" />
   </action>
@@ -10,6 +13,9 @@
   </action>
   <action id="DSM.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />

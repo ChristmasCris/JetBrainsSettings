@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result Set" />
+      <item value="execute" />
+      <item value="Query" />
+      <item value="Result" />
+      <item value="get Connection" />
+      <item value="Connection" />
+      <item value=" Connection" />
       <item value="println" />
       <item value="OUTUNM" />
       <item value="aprinter" />
@@ -44,18 +51,11 @@
       <item value="Data" />
       <item value=" My Text Editor" />
       <item value="Protocol" />
-      <item value="Protocal" />
-      <item value="Null Pointer Exception" />
-      <item value="action Performed" />
-      <item value="j Scroll Pane" />
-      <item value="My Text Editor" />
-      <item value="label" />
-      <item value="text Field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
