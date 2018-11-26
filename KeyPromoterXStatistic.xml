@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Java Class">
+        <Item>
+          <IdeaActionID>NewClass</IdeaActionID>
+          <ShortCut>'Alt+='</ShortCut>
+          <Description>Java Class</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project Structure...">
         <Item>
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
