@@ -39,6 +39,9 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
