@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="adding a window to a container" />
       <item value="Date" />
       <item value="Exception in thread &quot;main&quot; java.lang.NullPointerException" />
       <item value="Exception" />
@@ -16,7 +17,6 @@
       <item value="aprinter" />
       <item value=" Alp Printer" />
       <item value="java.lang.Illegal Argument Exception" />
-      <item value="adding a window to a container" />
       <item value="Her" />
       <item value="Exception in thread &quot;main&quot; java.lang.IllegalArgumentException: adding a window to a containe" />
       <item value="Illegal Argument Exception" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
