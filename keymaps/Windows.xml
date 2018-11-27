@@ -11,6 +11,10 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="alt v" />
@@ -171,6 +175,9 @@
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="alt v" />
@@ -545,6 +552,7 @@
   <action id="Run" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.RemoveConfiguration">
