@@ -44,7 +44,7 @@
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6f33a7" />
+        <option name="FOREGROUND" value="ff607c" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -376,6 +376,11 @@
         <option name="FOREGROUND" value="558186" />
       </value>
     </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7dacc" />
+      </value>
+    </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="558186" />
@@ -427,7 +432,7 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6f33a7" />
+        <option name="FOREGROUND" value="f94521" />
       </value>
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">

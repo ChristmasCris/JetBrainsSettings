@@ -532,22 +532,14 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
-  <action id="Refresh">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
+  <action id="Refresh" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
-  <action id="Rerun">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
+  <action id="Rerun" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="shift alt r" />
-  </action>
-  <action id="Resume">
-    <keyboard-shortcut first-keystroke="alt r" />
-    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Run" />
   <action id="RunClass">
