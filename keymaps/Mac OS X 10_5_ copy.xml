@@ -1,7 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="ctrl meta u" />
-    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
@@ -19,7 +19,7 @@
   <action id="Console.TableResult.SelectRow" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="Editor EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="EditorSplitLine" />
   <action id="Groovy.Shell.Execute" />
@@ -31,9 +31,14 @@
   </action>
   <action id="Refresh" />
   <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="Rerun" />
+  <action id="Run" />
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
+  <action id="RunMenu">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
