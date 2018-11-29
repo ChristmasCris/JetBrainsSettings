@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Array List" />
       <item value="translate" />
       <item value="delete Batch" />
       <item value="adding a window to a container" />
@@ -50,12 +51,11 @@
       <item value="current Thread" />
       <item value="Thread" />
       <item value="Runnable" />
-      <item value="Connection refused: connect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
