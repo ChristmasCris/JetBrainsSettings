@@ -120,15 +120,7 @@
     <keyboard-shortcut first-keystroke="shift alt divide" />
     <keyboard-shortcut first-keystroke="shift alt divide" />
   </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-    <keyboard-shortcut first-keystroke="ctrl divide" />
-    <keyboard-shortcut first-keystroke="alt slash" />
-  </action>
   <action id="Console.TableResult.CloneRow" />
-  <action id="Console.TableResult.EditValueMaximized">
-    <keyboard-shortcut first-keystroke="shift enter" />
-  </action>
   <action id="ContextHelp" />
   <action id="DatabaseView.CopyAction" />
   <action id="Debug">
@@ -207,10 +199,6 @@
   </action>
   <action id="EditorCodeBlockStartWithSelection">
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
-  </action>
-  <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="EditorContextInfo">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
@@ -338,9 +326,6 @@
   <action id="FileChooser.TogglePathShowing">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
-  <action id="FileMenu">
-    <keyboard-shortcut first-keystroke="alt minus" />
-  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
@@ -435,9 +420,6 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="GuiDesigner.Duplicate" />
-  <action id="HippieCompletion">
-    <keyboard-shortcut first-keystroke="alt period" />
-  </action>
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
@@ -464,9 +446,6 @@
   </action>
   <action id="MinimizeCurrentWindow">
     <keyboard-shortcut first-keystroke="alt m" />
-  </action>
-  <action id="NewClass">
-    <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
@@ -579,7 +558,9 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="ShowPopupMenu" />
-  <action id="ShowProjectStructureSettings" />
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
