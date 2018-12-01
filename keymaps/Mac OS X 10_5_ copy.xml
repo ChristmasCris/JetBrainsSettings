@@ -27,6 +27,7 @@
   <action id="EditorSplitLine" />
   <action id="Exit" />
   <action id="Groovy.Shell.Execute" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Jdbc.RunSqlScript" />
   <action id="KotlinShellExecute" />
   <action id="ReformatCode">
@@ -55,7 +56,9 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
-  <action id="ShowProjectStructureSettings" />
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
   <action id="ShowRecentTests" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.UpdateProject" />
