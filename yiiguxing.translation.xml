@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Print Writer" />
+      <item value="get Date Servlet" />
       <item value="Array List" />
       <item value="translate" />
       <item value="delete Batch" />
@@ -49,13 +51,11 @@
       <item value="yield" />
       <item value="My Priority" />
       <item value="current Thread" />
-      <item value="Thread" />
-      <item value="Runnable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
