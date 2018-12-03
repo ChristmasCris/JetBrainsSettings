@@ -6,7 +6,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -135,6 +135,14 @@
           <ShortCut>'Ctrl+Shift+Y'</ShortCut>
           <Description>Translate</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'Tomcat 9.0.13' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'⌘F10'</ShortCut>
+          <Description>Update 'Tomcat 9.0.13' application</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
