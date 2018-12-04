@@ -3,7 +3,7 @@
     <property name="created">2018-10-10T10:49:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-12-04T22:59:18</property>
+    <property name="modified">2018-12-04T23:46:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -15,7 +15,7 @@
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a7700" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_OBSOLETE" value="" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_RENAMED" value="7c7c" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="" />
     <option name="MODIFIED_LINES_COLOR" value="374752" />

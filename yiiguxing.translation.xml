@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="service" />
       <item value="Print Writer" />
       <item value="get Date Servlet" />
       <item value="Array List" />
@@ -50,12 +51,11 @@
       <item value="millis" />
       <item value="yield" />
       <item value="My Priority" />
-      <item value="current Thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
