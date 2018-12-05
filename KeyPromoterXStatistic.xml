@@ -105,6 +105,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Tomcat 7.0.92'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Tomcat 7.0.92'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Tomcat 9.0.13'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
