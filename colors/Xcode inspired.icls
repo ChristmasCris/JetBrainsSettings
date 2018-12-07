@@ -443,6 +443,11 @@
         <option name="FOREGROUND" value="ff5200" />
       </value>
     </option>
+    <option name="JSP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="ff8f26" />
+      </value>
+    </option>
     <option name="KOTLIN_LABEL">
       <value />
     </option>
