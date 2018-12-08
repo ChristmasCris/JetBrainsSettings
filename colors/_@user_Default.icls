@@ -3,18 +3,18 @@
     <property name="created">2018-10-10T10:49:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-29T23:11:43</property>
+    <property name="modified">2018-12-08T10:04:16</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="c9dec1" />
     <option name="DELETED_LINES_COLOR" value="9f9f9f" />
-    <option name="FILESTATUS_COPIED" value="a7700" />
+    <option name="FILESTATUS_COPIED" value="629755" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a7700" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
-    <option name="FILESTATUS_RENAMED" value="7c7c" />
+    <option name="FILESTATUS_RENAMED" value="4242" />
     <option name="MODIFIED_LINES_COLOR" value="c3d6e8" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="eddcbc" />
   </colors>
