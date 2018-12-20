@@ -97,6 +97,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tomcat 8.5.35'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Tomcat 8.5.35'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
