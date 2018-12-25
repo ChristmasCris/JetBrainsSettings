@@ -8,6 +8,14 @@
   </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true" INVERT_ON_ORDER="true">
     <option name="autoAliasTable" value="true" />
+    <option name="customMappings">
+      <map>
+        <entry key="" value="" />
+      </map>
+    </option>
     <option name="invertOrderInOnClause" value="true" />
+    <CUSTOM_ALIAS_MAPPINGS>
+      <entry table-name="" value="" />
+    </CUSTOM_ALIAS_MAPPINGS>
   </component>
 </application>
