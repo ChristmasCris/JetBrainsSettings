@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="AceLineAction">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
@@ -15,10 +19,14 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.Reload" />
   <action id="DSM.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -55,12 +63,22 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="ScalaConsole.Execute" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="hg4idea.QRefresh" />
 </keymap>

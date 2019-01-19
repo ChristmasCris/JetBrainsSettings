@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resource" />
+      <item value="Caused by: org.springframework.core.NestedIOException: Failed to parse mapping resource" />
+      <item value="login" />
+      <item value="longin" />
       <item value="CREATE" />
       <item value="service" />
       <item value="Print Writer" />
@@ -47,16 +51,13 @@
       <item value="numbering" />
       <item value="马车" />
       <item value="Daemon Demo" />
-      <item value="nterrupted Exception" />
-      <item value="print Stack Trace" />
-      <item value="millis" />
-      <item value="yield" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="LATIN" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="3" />
