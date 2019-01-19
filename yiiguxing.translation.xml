@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Context initialization failed" />
+      <item value="defined" />
+      <item value="location" />
       <item value="resource" />
       <item value="Caused by: org.springframework.core.NestedIOException: Failed to parse mapping resource" />
       <item value="login" />
@@ -48,14 +51,11 @@
       <item value="productor" />
       <item value="Productor" />
       <item value="Pro Ductor" />
-      <item value="numbering" />
-      <item value="马车" />
-      <item value="Daemon Demo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
