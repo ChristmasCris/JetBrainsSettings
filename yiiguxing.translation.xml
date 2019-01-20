@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="properties" />
+      <item value="Exception In Initializer Error" />
+      <item value="release Connection" />
+      <item value="get Connection" />
       <item value="Connected to server" />
       <item value="Context initialization failed" />
       <item value="classpath" />
@@ -28,7 +32,6 @@
       <item value="execute" />
       <item value="Query" />
       <item value="Result" />
-      <item value="get Connection" />
       <item value="Connection" />
       <item value=" Connection" />
       <item value="println" />
@@ -48,14 +51,11 @@
       <item value="  honey" />
       <item value="   jar" />
       <item value="honey Jar" />
-      <item value="Illegal Monitor State Exception" />
-      <item value=".Illegal Monitor State Exception" />
-      <item value="Index Out Of Bounds Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
