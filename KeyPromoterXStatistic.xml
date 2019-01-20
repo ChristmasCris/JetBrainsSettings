@@ -94,7 +94,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+='</ShortCut>
           <Description>Java Class</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
