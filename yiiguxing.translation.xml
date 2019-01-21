@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="document" />
+      <item value="loadBeanDefinitions Loading XML bean definitions from class path resource [spring.xml]" />
+      <item value="root of context hierarchy" />
+      <item value="prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet" />
+      <item value="Connected to server" />
       <item value="$USER_HOME$/Documents/java/video/pom.xml' already exists in VFS" />
       <item value="classpath" />
       <item value="BUILD SUCCESS" />
@@ -8,7 +13,6 @@
       <item value="Exception In Initializer Error" />
       <item value="release Connection" />
       <item value="get Connection" />
-      <item value="Connected to server" />
       <item value="Context initialization failed" />
       <item value=" creating " />
       <item value="nested exception is java.io.FileNotFoundException" />
@@ -47,15 +51,11 @@
       <item value="monk" />
       <item value="Mt Pool" />
       <item value=" Mt Pool" />
-      <item value="datagram Socket Receive" />
-      <item value="add Ele" />
-      <item value="Ele" />
-      <item value="  honey" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
