@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Variable 'demoCourses' is already defined in the scop" />
       <item value="Duplicate id reference" />
       <item value="document" />
       <item value="loadBeanDefinitions Loading XML bean definitions from class path resource [spring.xml]" />
@@ -50,7 +51,6 @@
       <item value="Exception in thread &quot;main&quot; java.lang.IllegalArgumentException: adding a window to a containe" />
       <item value="Illegal Argument Exception" />
       <item value="monk" />
-      <item value="Mt Pool" />
     </histories>
     <option name="languageScores">
       <map>
