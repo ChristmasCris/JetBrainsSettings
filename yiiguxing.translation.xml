@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate id reference" />
       <item value="document" />
       <item value="loadBeanDefinitions Loading XML bean definitions from class path resource [spring.xml]" />
       <item value="root of context hierarchy" />
@@ -50,11 +51,10 @@
       <item value="Illegal Argument Exception" />
       <item value="monk" />
       <item value="Mt Pool" />
-      <item value=" Mt Pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
+        <entry key="CHINESE" value="115" />
         <entry key="ENGLISH" value="115" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
