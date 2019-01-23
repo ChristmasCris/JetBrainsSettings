@@ -169,6 +169,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tomcat 6.0.35'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Tomcat 6.0.35'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tomcat 6.0.45'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -231,6 +239,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Tomcat 6.0.33'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Tomcat 6.0.35'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Tomcat 6.0.35'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat 6.0.45'">
