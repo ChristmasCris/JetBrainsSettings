@@ -1,0 +1,87 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="BackgroundImagesFolder" value="C:\Users\cirs\Pictures\壁纸" />
+    <property name="BackgroundImagesRadioButton" value="idea.background.editor,idea.background.frame" />
+    <property name="ColorChooser.RecentColors" value="116-160-214-255,,,129-175-234-255,,,255-131-200-255,,,255-96-28-255,,,253-10-52-255,,,255-108-0-255,,,255-88-9-255,,,255-93-93-255,,,255-25-147-255,,,177-255-206-255,,,255-176-250-255,,,63-255-25-255,,,255-85-172-255,,,255-178-156-255,,,193-218-0-255,,,23-214-149-255,,,255-137-199-255,,,23-214-147-255,,,4-214-210-255,,,55-232-122-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.64341956" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Solarized Dark" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="Default.SavedEditorTheme" value="Xcode inspired" />
+    <property name="Default.savedEditorTheme" value="Solarized Light (Alternate)" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.108342364" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spring&#10;seriali&#10;ser" />
+    <property name="InstalledPluginsSearchHistory" value="Grep Console&#10;Key promoter&#10;Markdown support&#10;BrowseWordAtCaret&#10;myba" />
+    <property name="JUnit.Splitter.Proportion" value="0.09474824" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="jump&#10;tra&#10;acejump&#10;acej&#10;export" />
+    <property name="LAST_INJECTED_LANGUAGE" value="TSQL" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="true" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="PLUGIN_FILTER" value="wa&#10;waka&#10;maven&#10;theme&#10;Nyan Progress Bar" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="SearchEveryWhereHistory" value="u&#10;B&#10;下载&#10;he&#10;new" />
+    <property name="SettingsSearchHistory" value="xml&#10;ground&#10;transla&#10;power&#10;prower" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SpringBeansModulesPanel[0]" value="0.108342364" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="Nyan progress bar&#10;stackoverflow&#10;BrowseWordAtCaret&#10;LiveEdit&#10;Grep Console" />
+    <property name="UpdatePluginsSearchHistory" value="icon" />
+    <property name="change.laf.on.editor.theme.change" value="true" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.3.2" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="ONE_LIGHT" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="80" />
+    <property name="create.project.preferred.importer" value="Eclipse" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.project.dir" value="D:\Program Files\Workspaces\OneDrive\第四阶段\SpringMyBatis\SpringMyBatisDay02" />
+    <property name="evlsprt.182" value="1671c1826d6" />
+    <property name="evlsprt2.182" value="1671704393a" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Pictures/壁纸/白.jpg&#10;C:/Users/cirs/Pictures/壁纸/Wallions284995.jpg&#10;C:/Users/cirs/Pictures/壁纸/Wallions284994.jpg&#10;D:/JavaProject/Demo&#10;C:/Program Files/Git/bin/bash.exe&#10;C:/Program Files/Git/bin/git.exe&#10;C:/Users/cirs/install/apache-tomcat-7.0.93&#10;C:/Users/cirs/install/apache-maven-3.0.5&#10;C:/Users/cirs/install/apache-maven-3.6.0&#10;D:/JavaProject&#10;C:/Program Files/Java/jdk1.7.0_80&#10;D:/Program Files/Workspaces/OneDrive/第四阶段/SpringMyBatis/SpringMyBatisDay02_03&#10;D:/Program Files/Workspaces/OneDrive/第四阶段/SpringMyBatis&#10;D:/Program Files/Workspaces/OneDrive/第四阶段/SpringMyBatis/SpringMyBatisDay02_02&#10;D:/Program Files/Workspaces/OneDrive/第四阶段/SpringMyBatis/SpringMyBatisDay02&#10;C:/TEMP&#10;D:/Program Files/Workspaces/OneDrive/第四阶段/SpringMyBatis/SpringMyBatisDay01&#10;D:/Program Files/Workspaces/OneDrive/SpringMyBatis&#10;D:/Program Files/Workspaces/OneDrive/kehoulianxi&#10;D:/Program Files/Workspaces/OneDrive/kehoulianxi/web/WEB-INF/lib&#10;D:/Program Files/Workspaces/OneDrive/Struts2/.idea/workspace.xml&#10;D:/Program Files/Workspaces/OneDrive/Struts2&#10;D:/Program Files/Workspaces/OneDrive/Struts2_Demo&#10;D:/Program Files/Workspaces/OneDrive/kehoulianxi/web/WEB-INF/classes&#10;D:/Program Files/Workspaces/OneDrive/练习1&#10;D:/Program Files/Workspaces/OneDrive/练习1/web/WEB-INF/lib&#10;D:/Program Files/Workspaces/OneDrive/练习1/web/WEB-INF/classes&#10;D:/Program Files/Workspaces/OneDrive/Exercise&#10;D:/Program Files/Workspaces/OneDrive/Login-Test/web/WEB-INF/lib&#10;D:/Program Files/Workspaces/OneDrive/Login-Test/web/WEB-INF/classes" />
+    <property name="file.colors.enable.non.project" value="Green" />
+    <property name="file.gist.reindex.count" value="7105" />
+    <property name="fileTypeChangedCounter" value="221" />
+    <property name="generate_all_setter_count_notify" value="4" />
+    <property name="idea.background.editor" value="C:\Users\cirs\Pictures\壁纸\Wallions284994.jpg,7,scale,center" />
+    <property name="ideavim.statistics.timestamp" value="1539692176041" />
+    <property name="installed.kotlin.plugin.version" value="1.3.21-release-IJ2018.3-1" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 9.0.13" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="kotlin.lastUpdateCheck" value="1540192796261" />
+    <property name="last.imported.location" value="D:/Program Files/Workspaces/OneDrive/第四阶段/SpringMyBatis/SpringMyBatisDay02" />
+    <property name="lastTip" value="3" />
+    <property name="learn.toolwindow.button.info.shown" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="C:\Users\cirs\Pictures\壁纸\Wallions284994.jpg&#10;C:\Users\cirs\Pictures\壁纸\Wallions284995.jpg&#10;C:\Users\cirs\Pictures\壁纸\白.jpg" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="rainbow.selected.color.option.name" value="Angle Brackets" />
+    <property name="selected.color.option.type" value="XML_TAG_DATA" />
+    <property name="settings.code.style.selected.tab.XML" value="Android" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="com.a.a.i.a.a.J" enableSqlConsole="false" />
+</application>

@@ -1,0 +1,8 @@
+<application>
+  <component name="PowerModeII">
+    <option name="flamesEnabled" value="false" />
+    <option name="isPowerIndicatorEnabled" value="false" />
+    <option name="keyStrokesPerMinute" value="358" />
+    <option name="shakeEnabled" value="false" />
+  </component>
+</application>
